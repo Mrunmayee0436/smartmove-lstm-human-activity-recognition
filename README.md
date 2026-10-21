@@ -1,5 +1,3 @@
-# smartmove-lstm-human-activity-recognition
-Human Activity Recognition using LSTM deep learning and smartphone sensor data.
 # SmartMove — Human Activity Recognition Using LSTM
 
 ## Project Overview
